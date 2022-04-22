@@ -121,3 +121,5 @@ function UserDAO(db) {
 }
 
 module.exports = { UserDAO };
+
+/* useless test comment */
